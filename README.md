@@ -710,6 +710,7 @@ Web 数据可视化工具
 * [flowplayer](https://github.com/flowplayer/flowplayer) -  HTML5 视频播放器 [http://flowplayer.org/](http://flowplayer.org/)
 * [mediaelement](https://github.com/johndyer/mediaelement) - 让 HTML5、 Flash 播放器和模仿 HTML5 媒介元素 API 的 Silverlight shim，在所有浏览器拥有一致的 UI。[http://mediaelementjs.com/](http://mediaelementjs.com/)
 * [SoundJS](https://github.com/CreateJS/SoundJS) - 让音频在 web 上运行更简单的库。它为不同浏览器提供了一致的 API。
+* [jwplayer](https://github.com/jwplayer/jwplayer.git)-号称最流行的视频播放器，有强大的自定义能力，满足简单和高级功能。
 
 <h3 id="animations">动画</h3>
 
